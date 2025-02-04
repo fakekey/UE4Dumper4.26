@@ -84,7 +84,7 @@ Unreal Engine 4 Dumper for Android Devices, Dump Lib libUE4.so from Memory of Ga
 - If it stuck during Generating SDK, Then Simply Stop it, Check Dump file and If needed then Try again.
  
 ## How to use
-- You can Use latest precompiled Binaries from [HERE](https://github.com/kp7742/UE4Dumper/tree/master/libs/) or You Can build your Own.
+- You can Use latest precompiled Binaries from [HERE](github.com/fakekey/UE4Dumper4.26/tree/master/libs/) or You Can build your Own.
 - Needs Either Root Access or Virtual Space
 - Put Executable in folder like /data/local/tmp (/sdcard not allow to execute binary so don't put it there)
 - Get Either Root Shell through Adb or Terminal Apps(type and run: 'su') or Normal Shell into Virtual Space via Terminal Apps in that folder
